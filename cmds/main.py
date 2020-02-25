@@ -1,6 +1,10 @@
 import discord
 from discord.ext import commands
 from Discord_Bot.core.classes import Cog_Extension
+import json
+
+with open('setting.json', 'r', encoding='utf8') as jfile:
+    jdata = json.load(jfile)
 
 class Main(Cog_Extension):
     
