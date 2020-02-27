@@ -1,10 +1,14 @@
 {
-    "TOKEN": "Njc5NjA3NzQ2NTM0MTc4ODE4.Xldeww.2m0PnvmV3Wi1bMz837Wjhv6GHtc",
+    "TOKEN": "Njc5NjA3NzQ2NTM0MTc4ODE4.XldklA.n9kka-NSyTwAtJBlHPnAaKv62k0 ",
     "Welcome_channel": "680334124392644608",
     "Leave_channel": "680334244311990279",
-    
-    "pic": ["D:\\Python project\\Discord_Bot\\pic\\1.jpg", "D:\\Python project\\Discord_Bot\\pic\\2.gif"],
-    "url_pic": ["https://images.zi.org.tw/applealmond/2020/01/20095200/1579485119-72c988cfaddea239a8516c5b858c56e5.jpg",
-                "https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpnOGDYv.jpg"]
-    
+    "time": "1637",
+    "pic": [
+        "D:\\Python project\\Discord_Bot\\pic\\1.jpg",
+        "D:\\Python project\\Discord_Bot\\pic\\2.gif"
+    ],
+    "url_pic": [
+        "https://images.zi.org.tw/applealmond/2020/01/20095200/1579485119-72c988cfaddea239a8516c5b858c56e5.jpg",
+        "https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpnOGDYv.jpg"
+    ]
 }
