@@ -1,5 +1,5 @@
 {
-    "TOKEN": "Njc5NjA3NzQ2NTM0MTc4ODE4.XldklA.n9kka-NSyTwAtJBlHPnAaKv62k0 ",
+    "TOKEN": "Njc5NjA3NzQ2NTM0MTc4ODE4.XqgkcA.EVz_IQpwXTXx_pTlyz6nub51sAU",
     "Welcome_channel": "680334124392644608",
     "Leave_channel": "680334244311990279",
     "time": "1637",
@@ -7,6 +7,10 @@
         "D:\\Python project\\Discord_Bot\\pic\\1.jpg",
         "D:\\Python project\\Discord_Bot\\pic\\2.gif"
     ],
+    "class":[
+        "D:\\Python project\\Discord_Bot\\pic\\class.JPG"
+    ],
+
     "url_pic": [
         "https://images.zi.org.tw/applealmond/2020/01/20095200/1579485119-72c988cfaddea239a8516c5b858c56e5.jpg",
         "https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpnOGDYv.jpg"
