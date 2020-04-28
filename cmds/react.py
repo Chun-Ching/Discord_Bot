@@ -16,6 +16,12 @@ class React(Cog_Extension):
         await ctx.send(file = pic)
 
     @commands.command()
+    async def 課表(self, ctx):
+        random_pic = random.choice(jdata['class'])
+        pic = discord.File(random_pic)
+        await ctx.send(file = pic)
+
+    @commands.command()
     async def web(self, ctx):
         random_pic = random.choice(jdata['url_pic'])
         await ctx.send(random_pic)
