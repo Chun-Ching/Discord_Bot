@@ -16,7 +16,7 @@ class Main(Cog_Extension):
 
     @commands.command()
     async def hi(self, ctx):
-        await ctx.send('123456789')
+        await ctx.send('Hi')
 
     @commands.command()
     async def em(self, ctx):
